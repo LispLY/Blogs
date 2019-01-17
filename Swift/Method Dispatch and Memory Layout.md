@@ -145,7 +145,7 @@ print(point1.x) //10.0
 var person1 = Person(name: "Leo", age: 24)
 var person2 = person1
 person2.age = 25
-print(person1.age)//9.0
+print(person1.age)//24
 ```
 我们先看看对应内存的使用
 
